@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8830" started-at="2018-08-02T12:38:05Z" finished-at="2018-08-02T12:38:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8830" started-at="2018-08-02T12:38:05Z" finished-at="2018-08-02T12:38:13Z">
+      <class name="ro.sv.automation.AutomationProject.HomePageTest">
+        <test-method status="PASS" signature="initalize()[pri:0, instance:ro.sv.automation.AutomationProject.HomePageTest@68c4039c]" name="initalize" is-config="true" duration-ms="6643" started-at="2018-08-02T15:38:05Z" finished-at="2018-08-02T15:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method status="PASS" signature="navigate()[pri:0, instance:ro.sv.automation.AutomationProject.HomePageTest@68c4039c]" name="navigate" is-config="true" duration-ms="170" started-at="2018-08-02T15:38:11Z" finished-at="2018-08-02T15:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="check()[pri:0, instance:ro.sv.automation.AutomationProject.HomePageTest@68c4039c]" name="check" duration-ms="1205" started-at="2018-08-02T15:38:11Z" finished-at="2018-08-02T15:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check -->
+        <test-method status="PASS" signature="checkTextforP1()[pri:0, instance:ro.sv.automation.AutomationProject.HomePageTest@68c4039c]" name="checkTextforP1" duration-ms="63" started-at="2018-08-02T15:38:13Z" finished-at="2018-08-02T15:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTextforP1 -->
+        <test-method status="PASS" signature="checkTextforP2()[pri:0, instance:ro.sv.automation.AutomationProject.HomePageTest@68c4039c]" name="checkTextforP2" duration-ms="54" started-at="2018-08-02T15:38:13Z" finished-at="2018-08-02T15:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTextforP2 -->
+        <test-method status="PASS" signature="nu()[pri:0, instance:ro.sv.automation.AutomationProject.HomePageTest@68c4039c]" name="nu" is-config="true" duration-ms="683" started-at="2018-08-02T15:38:13Z" finished-at="2018-08-02T15:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nu -->
+      </class> <!-- ro.sv.automation.AutomationProject.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
